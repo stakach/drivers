@@ -29,8 +29,8 @@ shards:
     version: 0.1.4
 
   driver:
-    github: placeos/driver
-    commit: aa31d08b18d5c4812cc3307b8af4da2d5307f715
+    github: stakach/driver
+    commit: 2a28272b995f3fa439ef5454b2a8d3d68fff8e9d
 
   etcd:
     github: aca-labs/crystal-etcd
