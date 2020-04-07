@@ -30,7 +30,7 @@ shards:
 
   driver:
     github: stakach/driver
-    commit: 2a28272b995f3fa439ef5454b2a8d3d68fff8e9d
+    commit: 652a133afacd248b62ce73beff6546c7e0a0ff2d
 
   etcd:
     github: aca-labs/crystal-etcd
